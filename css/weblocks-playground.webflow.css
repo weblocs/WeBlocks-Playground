@@ -89,6 +89,10 @@
   border-width: 1px;
   border-color: #171fb6;
 }
+
+.text {
+  cursor: pointer;
+}
 @font-face {
   font-family: 'Plus Jakarta';
   src: url('../images/PlusJakartaDisplay-Regular.ttf') format('truetype');
