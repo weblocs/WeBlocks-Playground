@@ -67,6 +67,10 @@
   opacity: 0.6;
 }
 
+.class-tag.second-tag {
+  padding-left: 8px;
+}
+
 .text {
   position: relative;
   left: -1px;
@@ -98,7 +102,7 @@
   cursor: pointer;
 }
 
-.wrap {
+.text-box {
   position: relative;
 }
 @font-face {
